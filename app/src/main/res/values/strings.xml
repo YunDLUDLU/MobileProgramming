@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Memong</string>
+    <string  name="addFinish">메모저장</string>
+    <string  name="deleteItem">아이템 삭제</string>
+    <string  name="addItem">아이템 저장</string>
+    <string  name="title_text">장소 입력</string>
+</resources>
